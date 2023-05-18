@@ -4,6 +4,12 @@
 # Models
 models/
 
+# env
+.env
+
+# data
+source_documents/
+
 # Local Chroma db
 .chroma/
 db/
